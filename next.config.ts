@@ -1,6 +1,9 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
+  experimental: {
+    serverComponentsExternalPackages: ["cloudinary"],
+  },
   logging: {
     fetches: {
       fullUrl: false, // This stops the verbose logging
