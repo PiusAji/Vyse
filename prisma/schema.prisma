@@ -1,0 +1,199 @@
+// Prisma schema for VYSE shoe store
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+// Users (Optional - guest checkout supported)
+model User {
+  id        String     @id @default(cuid())
+  email     String     @unique
+  password  String
+  firstName String?
+  lastName  String?
+  role      UserRole   @default(CUSTOMER)
+  status    UserStatus @default(ACTIVE)
+  addresses Json?      // Array of address objects
+  createdAt DateTime   @default(now())
+  updatedAt DateTime   @updatedAt
+
+  // Relations
+  orders    Order[]
+  cartItems CartItem[]
+}
+
+enum UserRole {
+  CUSTOMER
+  ADMIN
+}
+
+enum UserStatus {
+  ACTIVE
+  INACTIVE
+  SUSPENDED
+}
+
+
+// Products (Shoes)
+model Product {
+  id          String   @id @default(cuid())
+  name        String
+  description String?
+  price       Float
+  variants    ProductVariant[]
+  featured    Boolean  @default(false)
+  categories  ProductCategory[]
+  tags        ProductTag[]  // ✅ Just adding a relation - SAFE
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+
+  // Relations
+}
+
+
+model ProductVariant {
+  id        String   @id @default(cuid())
+  productId String
+  color     String
+  images    String   // JSON string: '["url1","url2"]'
+  sizes     String   // JSON string: '["7","8","9","10"]'
+  stock     Int      @default(0)
+  tags      VariantTag[]  // ✅ Just adding a relation - SAFE
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  product   Product  @relation(fields: [productId], references: [id])
+  cartItems CartItem[]
+  orderItems OrderItem[]
+
+  @@unique([productId, color])
+}
+
+// ✅ NEW TABLE - doesn't affect existing tables
+model ProductTag {
+  id        String   @id @default(cuid())
+  productId String
+  tag       String   // "new-arrival", "trending", "sale", "limited-edition", "bestseller"
+  
+  product   Product  @relation(fields: [productId], references: [id], onDelete: Cascade)
+  createdAt DateTime @default(now())
+  
+  @@unique([productId, tag])
+  @@index([productId])
+  @@index([tag])
+}
+
+// ✅ NEW TABLE - for variant-specific tags
+model VariantTag {
+  id        String         @id @default(cuid())
+  variantId String
+  tag       String         // "new-arrival", "trending", "sale", "limited-edition"
+  
+  variant   ProductVariant @relation(fields: [variantId], references: [id], onDelete: Cascade)
+  createdAt DateTime @default(now())
+  
+  @@unique([variantId, tag])
+  @@index([variantId])
+  @@index([tag])
+}
+
+// New junction table
+model ProductCategory {
+  productId  String
+  categoryId String
+  
+  product    Product  @relation(fields: [productId], references: [id], onDelete: Cascade)
+  category   Category @relation(fields: [categoryId], references: [id], onDelete: Cascade)
+  
+  @@id([productId, categoryId])
+  @@index([productId])
+  @@index([categoryId])
+}
+
+// Orders (Guest-friendly)
+model Order {
+  id              String      @id @default(cuid())
+  userId          String?     // Null for guest orders
+  guestEmail      String?     // Email for guest orders
+  status          OrderStatus @default(PENDING)
+  total           Float
+  shippingAddress Json        // Full address
+  billingAddress  Json?       // Optional
+  paymentIntentId String?     // Stripe payment intent ID
+  createdAt       DateTime    @default(now())
+  updatedAt       DateTime    @updatedAt
+
+  // Relations
+  user       User?       @relation(fields: [userId], references: [id])
+  orderItems OrderItem[]
+}
+
+enum OrderStatus {
+  PENDING
+  PAID
+  SHIPPED
+  DELIVERED
+  CANCELLED
+}
+
+// Order Items
+model OrderItem {
+  id        String @id @default(cuid())
+  orderId   String
+  productVariantId String
+  quantity         Int
+  price            Float  // Price at purchase time
+  selectedSize     String? // The specific size chosen by the user
+
+  // Relations
+  order          Order         @relation(fields: [orderId], references: [id], onDelete: Cascade)
+  productVariant ProductVariant @relation(fields: [productVariantId], references: [id])
+}
+
+// Cart Items (Session-based)
+model CartItem {
+  id        String   @id @default(cuid())
+  sessionId String?  // For guest carts
+  userId    String?  // For logged-in users
+  productVariantId String
+  quantity         Int
+  selectedSize     String? // The specific size chosen by the user
+  createdAt        DateTime @default(now())
+  updatedAt        DateTime @updatedAt
+
+  // Relations
+  user           User?         @relation(fields: [userId], references: [id])
+  productVariant ProductVariant @relation(fields: [productVariantId], references: [id])
+}
+
+// Categories
+model Category {
+  id          String   @id @default(cuid())
+  name        String   @unique // "Men", "Women", "Sneakers"
+  slug        String   @unique // "men", "women", "sneakers"
+  description String?
+  image       String?  // Category hero image
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+
+  products    ProductCategory[]  // Changed from: Product[]
+}
+
+model PageSection {
+  id        String   @id @default(cuid())
+  page      String   // e.g., "homepage", "about", "contact"
+  section   String   // e.g., "hero", "features", "testimonials"
+  content   Json     // Flexible JSON content for each section
+  isActive  Boolean  @default(true)
+  order     Int      @default(0) // For ordering sections on the page
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  @@unique([page, section]) // Ensures one section per page (e.g., only one "hero" on "homepage")
+  @@index([page, isActive]) // Fast queries for active sections on a page
+}

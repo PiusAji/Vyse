@@ -1,0 +1,1102 @@
+{
+  "categories": [
+    {
+      "id": "cmetntejl0000uqok4yebu9n7",
+      "name": "Men",
+      "slug": "men",
+      "description": "Shoes for men",
+      "image": null,
+      "createdAt": "2025-08-27T07:34:44.961Z",
+      "updatedAt": "2025-08-27T07:34:44.961Z"
+    },
+    {
+      "id": "cmetntejp0001uqokxk17fcit",
+      "name": "Women",
+      "slug": "women",
+      "description": "Shoes for women",
+      "image": null,
+      "createdAt": "2025-08-27T07:34:44.966Z",
+      "updatedAt": "2025-08-27T07:34:44.966Z"
+    },
+    {
+      "id": "cmetntejt0002uqok6i60wpff",
+      "name": "Sneakers",
+      "slug": "sneakers",
+      "description": "Casual sneakers",
+      "image": null,
+      "createdAt": "2025-08-27T07:34:44.969Z",
+      "updatedAt": "2025-08-27T07:34:44.969Z"
+    },
+    {
+      "id": "cmetntejw0003uqokj31m9xds",
+      "name": "Boots",
+      "slug": "boots",
+      "description": "Boots and work shoes",
+      "image": null,
+      "createdAt": "2025-08-27T07:34:44.973Z",
+      "updatedAt": "2025-08-27T07:34:44.973Z"
+    }
+  ],
+  "products": [
+    {
+      "id": "cmh3brtlz0003uqe0zus294u8",
+      "name": "Vyse - Aerie",
+      "description": "Where art meets comfort. Premium suede sneakers adorned with intricate gold origami crane embroidery. A wearable piece of poetry for the modern dreamer.",
+      "price": 169,
+      "featured": true,
+      "createdAt": "2025-10-23T11:14:42.215Z",
+      "updatedAt": "2025-10-31T09:12:33.337Z"
+    },
+    {
+      "id": "cmh4lo6aa0000uqc8v512ehuw",
+      "name": "Vyse - Classic",
+      "description": "Engineered for comfort, designed for life. The ultimate foundation for any outfit, from the gym to the street",
+      "price": 149,
+      "featured": true,
+      "createdAt": "2025-10-24T08:39:34.352Z",
+      "updatedAt": "2025-11-14T11:31:56.274Z"
+    },
+    {
+      "id": "cmh4lzh650003uqc8sw11o7qt",
+      "name": "Vyse - Zenith",
+      "description": "Command attention. Featuring a dynamic wave-knit pattern and featherlight construction for the ultimate statement sneaker",
+      "price": 149,
+      "featured": false,
+      "createdAt": "2025-10-24T08:48:21.678Z",
+      "updatedAt": "2025-11-14T11:31:36.357Z"
+    },
+    {
+      "id": "cmh4m91pu0005uqc84cm4l8j8",
+      "name": "Vyse - Aurivelle",
+      "description": "A peach-colored, low-top casual sneaker featuring an artistic, colorful butterfly graphic on the side, with white laces and a white sole",
+      "price": 169,
+      "featured": false,
+      "createdAt": "2025-10-24T08:55:48.210Z",
+      "updatedAt": "2025-10-24T08:55:48.210Z"
+    },
+    {
+      "id": "cmh4mi2xv0007uqc80epe3anz",
+      "name": "Vyse - Lyleen",
+      "description": "The low-top sneaker that brings the fun! The lavender upper is decorated with a vibrant floral graphic, making it the perfect pop of color. It's chic, cheerful, and ready to brighten up your every step",
+      "price": 169,
+      "featured": false,
+      "createdAt": "2025-10-24T09:02:49.699Z",
+      "updatedAt": "2025-10-31T09:09:37.003Z"
+    },
+    {
+      "id": "cmh4mkzcb0009uqc87546eczp",
+      "name": "Vyse - Popstroke",
+      "description": "Unleash your inner artist! This vibrant, pink low-top sneaker features a bold, abstract brushstroke design in a dynamic mix of blue, black, yellow, and orange. It’s the perfect canvas for your next statement look",
+      "price": 169,
+      "featured": true,
+      "createdAt": "2025-10-24T09:05:05.003Z",
+      "updatedAt": "2025-10-31T09:10:05.388Z"
+    },
+    {
+      "id": "cmh4n9l1s000buqc8mhmf1ko1",
+      "name": "Vyse - Tropic",
+      "description": "Ride the wave of style! This striking yellow low-top features a vibrant, retro-inspired wavy graphic panel in teal, orange, and red. It's the perfect statement sneaker to inject a bold, colorful, and fun vibe into your everyday look",
+      "price": 169,
+      "featured": true,
+      "createdAt": "2025-10-24T09:24:12.881Z",
+      "updatedAt": "2025-10-31T09:09:19.879Z"
+    },
+    {
+      "id": "cmh4nca7u000duqc81gvy81lj",
+      "name": "Vyse - Canary",
+      "description": "Shine like the sun! This monochromatic, low-top sneaker in a dazzling Canary Yellow is designed to be the ultimate pop of color. With its clean lines and tonal cream sole, it's a bold, essential piece for any statement-making wardrobe.",
+      "price": 169,
+      "featured": true,
+      "createdAt": "2025-10-24T09:26:18.811Z",
+      "updatedAt": "2025-10-31T09:08:58.821Z"
+    },
+    {
+      "id": "cmh4nejva000fuqc8tf841r6a",
+      "name": "Vyse - Checkmate",
+      "description": "Game, Set, Match. This sophisticated low-top takes a bold step with a stylish, contrasting brown and tan checkerboard side panel. Featuring rich, cognac-colored accents and a classic cream sole, it's the perfect blend of luxury and street style",
+      "price": 169,
+      "featured": true,
+      "createdAt": "2025-10-24T09:28:04.630Z",
+      "updatedAt": "2025-10-31T09:08:12.178Z"
+    },
+    {
+      "id": "cmh4nicom000huqc8voyk2qdt",
+      "name": "Vyse - Lumière",
+      "description": "Golden Age Glamour. Step out in pure sophistication with the Vyse Lumière. This low-top sneaker features a blush-pink upper adorned with an elegant, shimmering gold Art Deco-inspired fan pattern. A perfect statement piece that blends luxury and casual comfort",
+      "price": 149,
+      "featured": true,
+      "createdAt": "2025-10-24T09:31:01.942Z",
+      "updatedAt": "2025-11-14T11:31:22.487Z"
+    },
+    {
+      "id": "cmh4nyf4t000juqc8t5qow98k",
+      "name": "Vyse - Espresso",
+      "description": "Sophisticated Style. The Vyse Espresso is a rich, low-top sneaker featuring a deep brown upper with a subtle, textured chevron pattern on the side panel. Its clean, classic profile and off-white sole make it the perfect versatile shoe for elevated casual and smart-casual looks",
+      "price": 169,
+      "featured": true,
+      "createdAt": "2025-10-24T09:43:31.614Z",
+      "updatedAt": "2025-10-31T09:11:02.624Z"
+    },
+    {
+      "id": "cmh4o1aqw000luqc85iwy6mp2",
+      "name": "Vyse - Zip",
+      "description": "Unleash the Energy. The Vyse - Zip is a vibrant, athletic sneaker featuring an all-over electric zigzag pattern in neon yellow, hot pink, and teal. With its comfortable running-shoe silhouette and bright yellow chunky sole, this style is designed to make a bold, energetic statement in any casual or athleisure outfit",
+      "price": 149,
+      "featured": false,
+      "createdAt": "2025-10-24T09:45:45.897Z",
+      "updatedAt": "2025-10-31T09:11:49.964Z"
+    },
+    {
+      "id": "cmh4o5m8c000nuqc8c64aa952",
+      "name": "Vyse - Skyline",
+      "description": "Sky's the Limit Style. A fresh, low-top sneaker featuring a bright, light blue upper with a subtle, debossed geometric pattern. The classic silhouette is balanced by a contrasting off-white rubber sole, making it a versatile and effortlessly cool casual shoe for any season",
+      "price": 149,
+      "featured": false,
+      "createdAt": "2025-10-24T09:49:07.405Z",
+      "updatedAt": "2025-11-14T11:30:54.017Z"
+    },
+    {
+      "id": "cmh4o8wo5000puqc8b0jpn0rf",
+      "name": "Vyse - Horizon",
+      "description": "Dive into Style. A low-top sneaker featuring a rich, deep teal color with a subtle, textured herringbone pattern on the textile upper. The clean white sole provides a sharp contrast, offering a versatile yet vibrant look for casual, elevated comfort",
+      "price": 169,
+      "featured": true,
+      "createdAt": "2025-10-24T09:51:40.902Z",
+      "updatedAt": "2025-10-30T09:29:53.949Z"
+    },
+    {
+      "id": "cmhys08nw0001uqpg96480m7a",
+      "name": "Vyse - Limbo",
+      "description": "The classic silhouette, reimagined in black-on-black. Sleek style meets unstoppable durability.",
+      "price": 199,
+      "featured": true,
+      "createdAt": "2025-11-14T11:30:00.284Z",
+      "updatedAt": "2025-11-14T11:30:00.284Z"
+    },
+    {
+      "id": "cmhys4tcy000fuqpgw6cf6o0c",
+      "name": "Vyse - Ledger",
+      "description": "The ultimate bridge between formal and rugged. Polished leather and cap-toe structure meets a durable, modern sole",
+      "price": 199,
+      "featured": false,
+      "createdAt": "2025-11-14T11:33:33.731Z",
+      "updatedAt": "2025-11-14T11:33:33.731Z"
+    },
+    {
+      "id": "cmhys6xdy000kuqpgftjvt1w5",
+      "name": "Vyse - Timber",
+      "description": "The classic work boot, reborn. Rugged style and all-day comfort for any path you choose",
+      "price": 199,
+      "featured": false,
+      "createdAt": "2025-11-14T11:35:12.263Z",
+      "updatedAt": "2025-11-14T11:35:12.263Z"
+    }
+  ],
+  "productCategories": [
+    {
+      "productId": "cmh4m91pu0005uqc84cm4l8j8",
+      "categoryId": "cmetntejt0002uqok6i60wpff"
+    },
+    {
+      "productId": "cmh4m91pu0005uqc84cm4l8j8",
+      "categoryId": "cmetntejp0001uqokxk17fcit"
+    },
+    {
+      "productId": "cmh4o8wo5000puqc8b0jpn0rf",
+      "categoryId": "cmetntejt0002uqok6i60wpff"
+    },
+    {
+      "productId": "cmh4o8wo5000puqc8b0jpn0rf",
+      "categoryId": "cmetntejl0000uqok4yebu9n7"
+    },
+    {
+      "productId": "cmh4nejva000fuqc8tf841r6a",
+      "categoryId": "cmetntejt0002uqok6i60wpff"
+    },
+    {
+      "productId": "cmh4nejva000fuqc8tf841r6a",
+      "categoryId": "cmetntejl0000uqok4yebu9n7"
+    },
+    {
+      "productId": "cmh4nca7u000duqc81gvy81lj",
+      "categoryId": "cmetntejt0002uqok6i60wpff"
+    },
+    {
+      "productId": "cmh4nca7u000duqc81gvy81lj",
+      "categoryId": "cmetntejp0001uqokxk17fcit"
+    },
+    {
+      "productId": "cmh4nca7u000duqc81gvy81lj",
+      "categoryId": "cmetntejl0000uqok4yebu9n7"
+    },
+    {
+      "productId": "cmh4n9l1s000buqc8mhmf1ko1",
+      "categoryId": "cmetntejt0002uqok6i60wpff"
+    },
+    {
+      "productId": "cmh4n9l1s000buqc8mhmf1ko1",
+      "categoryId": "cmetntejl0000uqok4yebu9n7"
+    },
+    {
+      "productId": "cmh4mi2xv0007uqc80epe3anz",
+      "categoryId": "cmetntejt0002uqok6i60wpff"
+    },
+    {
+      "productId": "cmh4mi2xv0007uqc80epe3anz",
+      "categoryId": "cmetntejp0001uqokxk17fcit"
+    },
+    {
+      "productId": "cmh4mkzcb0009uqc87546eczp",
+      "categoryId": "cmetntejt0002uqok6i60wpff"
+    },
+    {
+      "productId": "cmh4mkzcb0009uqc87546eczp",
+      "categoryId": "cmetntejp0001uqokxk17fcit"
+    },
+    {
+      "productId": "cmh4nyf4t000juqc8t5qow98k",
+      "categoryId": "cmetntejt0002uqok6i60wpff"
+    },
+    {
+      "productId": "cmh4nyf4t000juqc8t5qow98k",
+      "categoryId": "cmetntejl0000uqok4yebu9n7"
+    },
+    {
+      "productId": "cmh4o1aqw000luqc85iwy6mp2",
+      "categoryId": "cmetntejt0002uqok6i60wpff"
+    },
+    {
+      "productId": "cmh4o1aqw000luqc85iwy6mp2",
+      "categoryId": "cmetntejl0000uqok4yebu9n7"
+    },
+    {
+      "productId": "cmh3brtlz0003uqe0zus294u8",
+      "categoryId": "cmetntejt0002uqok6i60wpff"
+    },
+    {
+      "productId": "cmh3brtlz0003uqe0zus294u8",
+      "categoryId": "cmetntejp0001uqokxk17fcit"
+    },
+    {
+      "productId": "cmhys08nw0001uqpg96480m7a",
+      "categoryId": "cmetntejl0000uqok4yebu9n7"
+    },
+    {
+      "productId": "cmhys08nw0001uqpg96480m7a",
+      "categoryId": "cmetntejw0003uqokj31m9xds"
+    },
+    {
+      "productId": "cmh4o5m8c000nuqc8c64aa952",
+      "categoryId": "cmetntejt0002uqok6i60wpff"
+    },
+    {
+      "productId": "cmh4o5m8c000nuqc8c64aa952",
+      "categoryId": "cmetntejl0000uqok4yebu9n7"
+    },
+    {
+      "productId": "cmh4nicom000huqc8voyk2qdt",
+      "categoryId": "cmetntejt0002uqok6i60wpff"
+    },
+    {
+      "productId": "cmh4nicom000huqc8voyk2qdt",
+      "categoryId": "cmetntejp0001uqokxk17fcit"
+    },
+    {
+      "productId": "cmh4lzh650003uqc8sw11o7qt",
+      "categoryId": "cmetntejt0002uqok6i60wpff"
+    },
+    {
+      "productId": "cmh4lzh650003uqc8sw11o7qt",
+      "categoryId": "cmetntejp0001uqokxk17fcit"
+    },
+    {
+      "productId": "cmh4lzh650003uqc8sw11o7qt",
+      "categoryId": "cmetntejl0000uqok4yebu9n7"
+    },
+    {
+      "productId": "cmh4lo6aa0000uqc8v512ehuw",
+      "categoryId": "cmetntejt0002uqok6i60wpff"
+    },
+    {
+      "productId": "cmh4lo6aa0000uqc8v512ehuw",
+      "categoryId": "cmetntejp0001uqokxk17fcit"
+    },
+    {
+      "productId": "cmh4lo6aa0000uqc8v512ehuw",
+      "categoryId": "cmetntejl0000uqok4yebu9n7"
+    },
+    {
+      "productId": "cmhys4tcy000fuqpgw6cf6o0c",
+      "categoryId": "cmetntejl0000uqok4yebu9n7"
+    },
+    {
+      "productId": "cmhys4tcy000fuqpgw6cf6o0c",
+      "categoryId": "cmetntejw0003uqokj31m9xds"
+    },
+    {
+      "productId": "cmhys6xdy000kuqpgftjvt1w5",
+      "categoryId": "cmetntejl0000uqok4yebu9n7"
+    },
+    {
+      "productId": "cmhys6xdy000kuqpgftjvt1w5",
+      "categoryId": "cmetntejw0003uqokj31m9xds"
+    }
+  ],
+  "productVariants": [
+    {
+      "id": "cmh3brtlz0004uqe0ouk7w8a6",
+      "productId": "cmh3brtlz0003uqe0zus294u8",
+      "color": "Tosca",
+      "images": "[\"https://res.cloudinary.com/dmpjuw9it/image/upload/v1761218079/vyse-products-product-variants/vyse-aerie-side.webp\",\"https://res.cloudinary.com/dmpjuw9it/image/upload/v1761218079/vyse-products-product-variants/vyse-aerie.webp\",\"https://res.cloudinary.com/dmpjuw9it/image/upload/v1761218079/vyse-products-product-variants/vyse-aerie-top.webp\",\"https://res.cloudinary.com/dmpjuw9it/image/upload/v1761218079/vyse-products-product-variants/vyse-aerie-nobg.webp\"]",
+      "sizes": "[\"7\",\"8\",\"9\",\"10\",\"11\",\"12\"]",
+      "stock": 60,
+      "createdAt": "2025-10-23T11:14:42.215Z",
+      "updatedAt": "2025-10-31T09:12:33.409Z"
+    },
+    {
+      "id": "cmh3brtlz0005uqe0ld1u075z",
+      "productId": "cmh3brtlz0003uqe0zus294u8",
+      "color": "Cream",
+      "images": "[\"https://res.cloudinary.com/dmpjuw9it/image/upload/v1761218081/vyse-products-product-variants/vyse-aeriecream-side.webp\",\"https://res.cloudinary.com/dmpjuw9it/image/upload/v1761218081/vyse-products-product-variants/vyse-aeriecream.webp\",\"https://res.cloudinary.com/dmpjuw9it/image/upload/v1761218081/vyse-products-product-variants/vyse-aeriecream-top.webp\",\"https://res.cloudinary.com/dmpjuw9it/image/upload/v1761218081/vyse-products-product-variants/vyse-aeriecream-nobg.webp\"]",
+      "sizes": "[\"7\",\"8\",\"9\",\"10\",\"11\",\"12\"]",
+      "stock": 60,
+      "createdAt": "2025-10-23T11:14:42.215Z",
+      "updatedAt": "2025-10-31T09:12:33.359Z"
+    },
+    {
+      "id": "cmh4lo6ab0001uqc8dwn95ilm",
+      "productId": "cmh4lo6aa0000uqc8v512ehuw",
+      "color": "Black",
+      "images": "[\"https://res.cloudinary.com/dmpjuw9it/image/upload/v1761295169/vyse-products-product-variants/vyse-classic-side.webp\",\"https://res.cloudinary.com/dmpjuw9it/image/upload/v1761295169/vyse-products-product-variants/vyse-classic.webp\",\"https://res.cloudinary.com/dmpjuw9it/image/upload/v1761295169/vyse-products-product-variants/vyse-classic-top.webp\",\"https://res.cloudinary.com/dmpjuw9it/image/upload/v1761295169/vyse-products-product-variants/vyse-classic-nobg.png\"]",
+      "sizes": "[\"7\",\"8\",\"9\",\"10\",\"11\",\"12\"]",
+      "stock": 60,
+      "createdAt": "2025-10-24T08:39:34.352Z",
+      "updatedAt": "2025-11-14T11:31:56.294Z"
+    },
+    {
+      "id": "cmh4lo6ab0002uqc8urpby3qs",
+      "productId": "cmh4lo6aa0000uqc8v512ehuw",
+      "color": "Gray",
+      "images": "[\"https://res.cloudinary.com/dmpjuw9it/image/upload/v1761295171/vyse-products-product-variants/vyse-classicgray-side.webp\",\"https://res.cloudinary.com/dmpjuw9it/image/upload/v1761295171/vyse-products-product-variants/vyse-classicgray.webp\",\"https://res.cloudinary.com/dmpjuw9it/image/upload/v1761295171/vyse-products-product-variants/vyse-classicgray-top.webp\",\"https://res.cloudinary.com/dmpjuw9it/image/upload/v1761295171/vyse-products-product-variants/vyse-classicgray-nobg.png\"]",
+      "sizes": "[\"7\",\"8\",\"9\",\"10\",\"11\",\"12\"]",
+      "stock": 60,
+      "createdAt": "2025-10-24T08:39:34.352Z",
+      "updatedAt": "2025-11-14T11:31:56.327Z"
+    },
+    {
+      "id": "cmh4lzh650004uqc82ndyta1o",
+      "productId": "cmh4lzh650003uqc8sw11o7qt",
+      "color": "Black & Tan",
+      "images": "[\"https://res.cloudinary.com/dmpjuw9it/image/upload/v1761295700/vyse-products-product-variants/vyse-zenith-side.webp\",\"https://res.cloudinary.com/dmpjuw9it/image/upload/v1761295700/vyse-products-product-variants/vyse-zenith.webp\",\"https://res.cloudinary.com/dmpjuw9it/image/upload/v1761295700/vyse-products-product-variants/vyse-zenith-top.webp\",\"https://res.cloudinary.com/dmpjuw9it/image/upload/v1761295699/vyse-products-product-variants/vyse-zenith-nobg.webp\"]",
+      "sizes": "[\"7\",\"10\",\"11\",\"12\"]",
+      "stock": 60,
+      "createdAt": "2025-10-24T08:48:21.678Z",
+      "updatedAt": "2025-11-14T11:31:36.377Z"
+    },
+    {
+      "id": "cmh4m91pu0006uqc8g7dlnpfv",
+      "productId": "cmh4m91pu0005uqc84cm4l8j8",
+      "color": "Peach",
+      "images": "[\"https://res.cloudinary.com/dmpjuw9it/image/upload/v1761296145/vyse-products-product-variants/vyse-aurivelle-side.webp\",\"https://res.cloudinary.com/dmpjuw9it/image/upload/v1761296145/vyse-products-product-variants/vyse-aurivelle.webp\",\"https://res.cloudinary.com/dmpjuw9it/image/upload/v1761296146/vyse-products-product-variants/vyse-aurivella-top.webp\",\"https://res.cloudinary.com/dmpjuw9it/image/upload/v1761296145/vyse-products-product-variants/vyse-aurivelle-nobg.webp\"]",
+      "sizes": "[\"7\",\"8\",\"9\",\"10\",\"11\"]",
+      "stock": 50,
+      "createdAt": "2025-10-24T08:55:48.210Z",
+      "updatedAt": "2025-10-24T08:55:48.210Z"
+    },
+    {
+      "id": "cmh4mi2xv0008uqc823jjp0yi",
+      "productId": "cmh4mi2xv0007uqc80epe3anz",
+      "color": "Lavender",
+      "images": "[\"https://res.cloudinary.com/dmpjuw9it/image/upload/v1761296567/vyse-products-product-variants/vyse-lyleen-side.webp\",\"https://res.cloudinary.com/dmpjuw9it/image/upload/v1761296568/vyse-products-product-variants/vyse-lyleen.webp\",\"https://res.cloudinary.com/dmpjuw9it/image/upload/v1761296568/vyse-products-product-variants/vyse-lyleen-top.webp\",\"https://res.cloudinary.com/dmpjuw9it/image/upload/v1761296567/vyse-products-product-variants/vyse-lyleen-nobg.webp\"]",
+      "sizes": "[\"7\",\"8\",\"9\",\"10\",\"11\"]",
+      "stock": 50,
+      "createdAt": "2025-10-24T09:02:49.699Z",
+      "updatedAt": "2025-10-31T09:09:37.030Z"
+    },
+    {
+      "id": "cmh4mkzcb000auqc8khmfnxon",
+      "productId": "cmh4mkzcb0009uqc87546eczp",
+      "color": "Pink",
+      "images": "[\"https://res.cloudinary.com/dmpjuw9it/image/upload/v1761296703/vyse-products-product-variants/vyse-popstroke-side.webp\",\"https://res.cloudinary.com/dmpjuw9it/image/upload/v1761296703/vyse-products-product-variants/vyse-popstroke.webp\",\"https://res.cloudinary.com/dmpjuw9it/image/upload/v1761296703/vyse-products-product-variants/vyse-popstroke-top.webp\",\"https://res.cloudinary.com/dmpjuw9it/image/upload/v1761296703/vyse-products-product-variants/vyse-popstroke-nobg.webp\"]",
+      "sizes": "[\"7\",\"8\",\"9\",\"10\",\"11\"]",
+      "stock": 20,
+      "createdAt": "2025-10-24T09:05:05.003Z",
+      "updatedAt": "2025-10-31T09:10:05.415Z"
+    },
+    {
+      "id": "cmh4n9l1s000cuqc8r593om9u",
+      "productId": "cmh4n9l1s000buqc8mhmf1ko1",
+      "color": "Yellow",
+      "images": "[\"https://res.cloudinary.com/dmpjuw9it/image/upload/v1761297851/vyse-products-product-variants/vyse-tropic-side.webp\",\"https://res.cloudinary.com/dmpjuw9it/image/upload/v1761297851/vyse-products-product-variants/vyse-tropic.webp\",\"https://res.cloudinary.com/dmpjuw9it/image/upload/v1761297851/vyse-products-product-variants/vyse-tropic-top.webp\",\"https://res.cloudinary.com/dmpjuw9it/image/upload/v1761297850/vyse-products-product-variants/vyse-tropic-nobg.webp\"]",
+      "sizes": "[\"7\",\"8\",\"9\",\"10\",\"11\",\"12\"]",
+      "stock": 50,
+      "createdAt": "2025-10-24T09:24:12.881Z",
+      "updatedAt": "2025-10-31T09:09:19.903Z"
+    },
+    {
+      "id": "cmh4nca7v000euqc8ficz5vcr",
+      "productId": "cmh4nca7u000duqc81gvy81lj",
+      "color": "Yellow",
+      "images": "[\"https://res.cloudinary.com/dmpjuw9it/image/upload/v1761297976/vyse-products-product-variants/vyse-canary-side.webp\",\"https://res.cloudinary.com/dmpjuw9it/image/upload/v1761297976/vyse-products-product-variants/vyse-canary.webp\",\"https://res.cloudinary.com/dmpjuw9it/image/upload/v1761297976/vyse-products-product-variants/vyse-canary-top.webp\",\"https://res.cloudinary.com/dmpjuw9it/image/upload/v1761297976/vyse-products-product-variants/vyse-canary-nobg.webp\"]",
+      "sizes": "[\"7\",\"8\",\"9\",\"10\",\"11\",\"12\"]",
+      "stock": 60,
+      "createdAt": "2025-10-24T09:26:18.811Z",
+      "updatedAt": "2025-10-31T09:08:58.840Z"
+    },
+    {
+      "id": "cmh4nejva000guqc8cyvscp2f",
+      "productId": "cmh4nejva000fuqc8tf841r6a",
+      "color": "Coffee",
+      "images": "[\"https://res.cloudinary.com/dmpjuw9it/image/upload/v1761298082/vyse-products-product-variants/vyse-checkmate-side.webp\",\"https://res.cloudinary.com/dmpjuw9it/image/upload/v1761298082/vyse-products-product-variants/vyse-checkmate.webp\",\"https://res.cloudinary.com/dmpjuw9it/image/upload/v1761298082/vyse-products-product-variants/vyse-checkmate-top.webp\",\"https://res.cloudinary.com/dmpjuw9it/image/upload/v1761298082/vyse-products-product-variants/vyse-checkmate-nobg.webp\"]",
+      "sizes": "[\"7\",\"8\",\"9\",\"10\",\"11\",\"12\"]",
+      "stock": 20,
+      "createdAt": "2025-10-24T09:28:04.630Z",
+      "updatedAt": "2025-10-31T09:08:12.213Z"
+    },
+    {
+      "id": "cmh4nicom000iuqc8yt97m9fi",
+      "productId": "cmh4nicom000huqc8voyk2qdt",
+      "color": "Peach",
+      "images": "[\"https://res.cloudinary.com/dmpjuw9it/image/upload/v1761298259/vyse-products-product-variants/vyse-lumire-side.webp\",\"https://res.cloudinary.com/dmpjuw9it/image/upload/v1761298259/vyse-products-product-variants/vyse-lumire.webp\",\"https://res.cloudinary.com/dmpjuw9it/image/upload/v1761298259/vyse-products-product-variants/vyse-lumire-top.webp\",\"https://res.cloudinary.com/dmpjuw9it/image/upload/v1761298259/vyse-products-product-variants/vyse-lumire-nobg.webp\"]",
+      "sizes": "[\"7\",\"8\",\"9\",\"10\",\"11\"]",
+      "stock": 50,
+      "createdAt": "2025-10-24T09:31:01.942Z",
+      "updatedAt": "2025-11-14T11:31:22.501Z"
+    },
+    {
+      "id": "cmh4nyf4t000kuqc82dwfw5ci",
+      "productId": "cmh4nyf4t000juqc8t5qow98k",
+      "color": "Brown",
+      "images": "[\"https://res.cloudinary.com/dmpjuw9it/image/upload/v1761299010/vyse-products-product-variants/vyse-espresso-side.webp\",\"https://res.cloudinary.com/dmpjuw9it/image/upload/v1761299010/vyse-products-product-variants/vyse-espresso.webp\",\"https://res.cloudinary.com/dmpjuw9it/image/upload/v1761299009/vyse-products-product-variants/vyse-espresso-top.webp\",\"https://res.cloudinary.com/dmpjuw9it/image/upload/v1761299009/vyse-products-product-variants/vyse-espresso-nobg.webp\"]",
+      "sizes": "[\"7\",\"8\",\"9\",\"10\",\"11\",\"12\"]",
+      "stock": 50,
+      "createdAt": "2025-10-24T09:43:31.614Z",
+      "updatedAt": "2025-10-31T09:11:02.650Z"
+    },
+    {
+      "id": "cmh4o1aqx000muqc80gdyr3tp",
+      "productId": "cmh4o1aqw000luqc85iwy6mp2",
+      "color": "Yellow",
+      "images": "[\"https://res.cloudinary.com/dmpjuw9it/image/upload/v1761299143/vyse-products-product-variants/vyse-zip-side.png\",\"https://res.cloudinary.com/dmpjuw9it/image/upload/v1761299140/vyse-products-product-variants/vyse-zip-side.webp\",\"https://res.cloudinary.com/dmpjuw9it/image/upload/v1761299140/vyse-products-product-variants/vyse-zip.webp\",\"https://res.cloudinary.com/dmpjuw9it/image/upload/v1761299140/vyse-products-product-variants/vyse-zip-top.webp\",\"https://res.cloudinary.com/dmpjuw9it/image/upload/v1761299140/vyse-products-product-variants/vyse-zip-nobg.webp\"]",
+      "sizes": "[\"7\",\"8\",\"9\",\"10\",\"11\",\"12\"]",
+      "stock": 50,
+      "createdAt": "2025-10-24T09:45:45.897Z",
+      "updatedAt": "2025-10-31T09:11:49.989Z"
+    },
+    {
+      "id": "cmh4o5m8d000ouqc8avycdylc",
+      "productId": "cmh4o5m8c000nuqc8c64aa952",
+      "color": "Blue",
+      "images": "[\"https://res.cloudinary.com/dmpjuw9it/image/upload/v1761299345/vyse-products-product-variants/vyse-skyline-side.webp\",\"https://res.cloudinary.com/dmpjuw9it/image/upload/v1761299345/vyse-products-product-variants/vyse-skyline.webp\",\"https://res.cloudinary.com/dmpjuw9it/image/upload/v1761299346/vyse-products-product-variants/vyse-skyline-top.webp\",\"https://res.cloudinary.com/dmpjuw9it/image/upload/v1761299345/vyse-products-product-variants/vyse-skyline-nobg.webp\"]",
+      "sizes": "[\"7\",\"8\",\"9\",\"10\",\"11\",\"12\"]",
+      "stock": 50,
+      "createdAt": "2025-10-24T09:49:07.405Z",
+      "updatedAt": "2025-11-14T11:30:54.033Z"
+    },
+    {
+      "id": "cmh4o8wo6000quqc88iqn2xym",
+      "productId": "cmh4o8wo5000puqc8b0jpn0rf",
+      "color": "Deep Teal",
+      "images": "[\"https://res.cloudinary.com/dmpjuw9it/image/upload/v1761299499/vyse-products-product-variants/vyse-horizon-side.webp\",\"https://res.cloudinary.com/dmpjuw9it/image/upload/v1761299499/vyse-products-product-variants/vyse-horizon.webp\",\"https://res.cloudinary.com/dmpjuw9it/image/upload/v1761299499/vyse-products-product-variants/vyse-horizon-top.webp\",\"https://res.cloudinary.com/dmpjuw9it/image/upload/v1761299498/vyse-products-product-variants/vyse-horizon-nobg.webp\"]",
+      "sizes": "[\"7\",\"8\",\"9\",\"10\",\"11\",\"12\"]",
+      "stock": 50,
+      "createdAt": "2025-10-24T09:51:40.902Z",
+      "updatedAt": "2025-10-30T09:29:54.052Z"
+    },
+    {
+      "id": "cmhys08ny0003uqpgiditt5go",
+      "productId": "cmhys08nw0001uqpg96480m7a",
+      "color": "Black",
+      "images": "[\"https://res.cloudinary.com/dmpjuw9it/image/upload/v1763119799/vyse-products-product-variants/vyse-limbo-side.webp\",\"https://res.cloudinary.com/dmpjuw9it/image/upload/v1763119798/vyse-products-product-variants/vyse-limbo.webp\",\"https://res.cloudinary.com/dmpjuw9it/image/upload/v1763119799/vyse-products-product-variants/vyse-limbo-top.webp\",\"https://res.cloudinary.com/dmpjuw9it/image/upload/v1763119798/vyse-products-product-variants/vyse-limbo-nobg.webp\"]",
+      "sizes": "[\"7\",\"8\",\"9\",\"10\",\"11\",\"12\"]",
+      "stock": 50,
+      "createdAt": "2025-11-14T11:30:00.284Z",
+      "updatedAt": "2025-11-14T11:30:00.284Z"
+    },
+    {
+      "id": "cmhys4tcz000iuqpg2duwhxuk",
+      "productId": "cmhys4tcy000fuqpgw6cf6o0c",
+      "color": "Leather Brown",
+      "images": "[\"https://res.cloudinary.com/dmpjuw9it/image/upload/v1763120014/vyse-products-product-variants/vyse-ledger-side.webp\",\"https://res.cloudinary.com/dmpjuw9it/image/upload/v1763120014/vyse-products-product-variants/vyse-ledger.webp\",\"https://res.cloudinary.com/dmpjuw9it/image/upload/v1763120014/vyse-products-product-variants/vyse-ledger-top.webp\",\"https://res.cloudinary.com/dmpjuw9it/image/upload/v1763120013/vyse-products-product-variants/vyse-ledger-nobg.webp\"]",
+      "sizes": "[\"7\",\"8\",\"9\",\"10\",\"11\",\"12\"]",
+      "stock": 50,
+      "createdAt": "2025-11-14T11:33:33.731Z",
+      "updatedAt": "2025-11-14T11:33:33.731Z"
+    },
+    {
+      "id": "cmhys6xdy000ouqpgfxlb1gpf",
+      "productId": "cmhys6xdy000kuqpgftjvt1w5",
+      "color": "Light Brown",
+      "images": "[\"https://res.cloudinary.com/dmpjuw9it/image/upload/v1763120110/vyse-products-product-variants/vyse-timber-side.webp\",\"https://res.cloudinary.com/dmpjuw9it/image/upload/v1763120110/vyse-products-product-variants/vyse-timber.webp\",\"https://res.cloudinary.com/dmpjuw9it/image/upload/v1763120110/vyse-products-product-variants/vyse-timber-top.webp\",\"https://res.cloudinary.com/dmpjuw9it/image/upload/v1763120112/vyse-products-product-variants/vyse-timber-nobg.webp\"]",
+      "sizes": "[\"7\",\"8\",\"9\",\"10\",\"11\",\"12\"]",
+      "stock": 0,
+      "createdAt": "2025-11-14T11:35:12.263Z",
+      "updatedAt": "2025-11-14T11:35:12.263Z"
+    }
+  ],
+  "productTags": [
+    {
+      "id": "cmhd8407x0000uqes27idom15",
+      "productId": "cmh4o8wo5000puqc8b0jpn0rf",
+      "tag": "new-arrival",
+      "createdAt": "2025-10-30T09:29:53.949Z"
+    },
+    {
+      "id": "cmhd8407x0001uqesnoheqw23",
+      "productId": "cmh4o8wo5000puqc8b0jpn0rf",
+      "tag": "trending",
+      "createdAt": "2025-10-30T09:29:53.949Z"
+    },
+    {
+      "id": "cmhemryfn0000uq08zyn2kdvb",
+      "productId": "cmh4nejva000fuqc8tf841r6a",
+      "tag": "trending",
+      "createdAt": "2025-10-31T09:08:12.178Z"
+    },
+    {
+      "id": "cmhemryfo0001uq08d4fy9b67",
+      "productId": "cmh4nejva000fuqc8tf841r6a",
+      "tag": "limited-edition",
+      "createdAt": "2025-10-31T09:08:12.178Z"
+    },
+    {
+      "id": "cmhemryfo0002uq08b4t9cjb0",
+      "productId": "cmh4nejva000fuqc8tf841r6a",
+      "tag": "bestseller",
+      "createdAt": "2025-10-31T09:08:12.178Z"
+    },
+    {
+      "id": "cmhemsyf80008uq08qcnnobwi",
+      "productId": "cmh4nca7u000duqc81gvy81lj",
+      "tag": "trending",
+      "createdAt": "2025-10-31T09:08:58.821Z"
+    },
+    {
+      "id": "cmhemsyf80009uq08k0xlzwxa",
+      "productId": "cmh4nca7u000duqc81gvy81lj",
+      "tag": "bestseller",
+      "createdAt": "2025-10-31T09:08:58.821Z"
+    },
+    {
+      "id": "cmhemteo6000buq08nar36plj",
+      "productId": "cmh4n9l1s000buqc8mhmf1ko1",
+      "tag": "trending",
+      "createdAt": "2025-10-31T09:09:19.879Z"
+    },
+    {
+      "id": "cmhemteo6000cuq08cqa2f8v2",
+      "productId": "cmh4n9l1s000buqc8mhmf1ko1",
+      "tag": "bestseller",
+      "createdAt": "2025-10-31T09:09:19.879Z"
+    },
+    {
+      "id": "cmhemteo6000duq08gxhfeqjm",
+      "productId": "cmh4n9l1s000buqc8mhmf1ko1",
+      "tag": "limited-edition",
+      "createdAt": "2025-10-31T09:09:19.879Z"
+    },
+    {
+      "id": "cmhemtrvu000guq08wt2xkfjv",
+      "productId": "cmh4mi2xv0007uqc80epe3anz",
+      "tag": "new-arrival",
+      "createdAt": "2025-10-31T09:09:37.003Z"
+    },
+    {
+      "id": "cmhemudsc000iuq088r62upjk",
+      "productId": "cmh4mkzcb0009uqc87546eczp",
+      "tag": "trending",
+      "createdAt": "2025-10-31T09:10:05.388Z"
+    },
+    {
+      "id": "cmhemudsc000juq08kby9i22e",
+      "productId": "cmh4mkzcb0009uqc87546eczp",
+      "tag": "bestseller",
+      "createdAt": "2025-10-31T09:10:05.388Z"
+    },
+    {
+      "id": "cmhemudsc000kuq082u7qvp3q",
+      "productId": "cmh4mkzcb0009uqc87546eczp",
+      "tag": "limited-edition",
+      "createdAt": "2025-10-31T09:10:05.388Z"
+    },
+    {
+      "id": "cmhemvly8000puq08cvgzq62q",
+      "productId": "cmh4nyf4t000juqc8t5qow98k",
+      "tag": "new-arrival",
+      "createdAt": "2025-10-31T09:11:02.624Z"
+    },
+    {
+      "id": "cmhemwmh7000ruq08zlpq31nk",
+      "productId": "cmh4o1aqw000luqc85iwy6mp2",
+      "tag": "new-arrival",
+      "createdAt": "2025-10-31T09:11:49.964Z"
+    },
+    {
+      "id": "cmhemxjy1000yuq085jmty4wc",
+      "productId": "cmh3brtlz0003uqe0zus294u8",
+      "tag": "trending",
+      "createdAt": "2025-10-31T09:12:33.337Z"
+    },
+    {
+      "id": "cmhemxjy1000zuq08x612h659",
+      "productId": "cmh3brtlz0003uqe0zus294u8",
+      "tag": "limited-edition",
+      "createdAt": "2025-10-31T09:12:33.337Z"
+    },
+    {
+      "id": "cmhemxjy10010uq08f8ip061p",
+      "productId": "cmh3brtlz0003uqe0zus294u8",
+      "tag": "bestseller",
+      "createdAt": "2025-10-31T09:12:33.337Z"
+    },
+    {
+      "id": "cmhys08ny0002uqpgrf9gjg4e",
+      "productId": "cmhys08nw0001uqpg96480m7a",
+      "tag": "new-arrival",
+      "createdAt": "2025-11-14T11:30:00.284Z"
+    },
+    {
+      "id": "cmhys1e4h0005uqpgb16gnjli",
+      "productId": "cmh4o5m8c000nuqc8c64aa952",
+      "tag": "sale",
+      "createdAt": "2025-11-14T11:30:54.017Z"
+    },
+    {
+      "id": "cmhys203b0007uqpgcrl6m3vf",
+      "productId": "cmh4nicom000huqc8voyk2qdt",
+      "tag": "sale",
+      "createdAt": "2025-11-14T11:31:22.487Z"
+    },
+    {
+      "id": "cmhys2asl0009uqpgqu2sjo9w",
+      "productId": "cmh4lzh650003uqc8sw11o7qt",
+      "tag": "sale",
+      "createdAt": "2025-11-14T11:31:36.357Z"
+    },
+    {
+      "id": "cmhys2q5u000buqpguomsnyhe",
+      "productId": "cmh4lo6aa0000uqc8v512ehuw",
+      "tag": "bestseller",
+      "createdAt": "2025-11-14T11:31:56.274Z"
+    },
+    {
+      "id": "cmhys2q5u000cuqpgrpr76n6p",
+      "productId": "cmh4lo6aa0000uqc8v512ehuw",
+      "tag": "sale",
+      "createdAt": "2025-11-14T11:31:56.274Z"
+    },
+    {
+      "id": "cmhys4tcz000guqpg9ncaei27",
+      "productId": "cmhys4tcy000fuqpgw6cf6o0c",
+      "tag": "bestseller",
+      "createdAt": "2025-11-14T11:33:33.731Z"
+    },
+    {
+      "id": "cmhys4tcz000huqpg0dhzal83",
+      "productId": "cmhys4tcy000fuqpgw6cf6o0c",
+      "tag": "trending",
+      "createdAt": "2025-11-14T11:33:33.731Z"
+    },
+    {
+      "id": "cmhys6xdy000luqpgkackqvuf",
+      "productId": "cmhys6xdy000kuqpgftjvt1w5",
+      "tag": "sale",
+      "createdAt": "2025-11-14T11:35:12.263Z"
+    },
+    {
+      "id": "cmhys6xdy000muqpga8ih1i2v",
+      "productId": "cmhys6xdy000kuqpgftjvt1w5",
+      "tag": "bestseller",
+      "createdAt": "2025-11-14T11:35:12.263Z"
+    },
+    {
+      "id": "cmhys6xdy000nuqpgvwrqn7z4",
+      "productId": "cmhys6xdy000kuqpgftjvt1w5",
+      "tag": "trending",
+      "createdAt": "2025-11-14T11:35:12.263Z"
+    }
+  ],
+  "users": [
+    {
+      "id": "cmelgnt2u0000uqss0wunhqv5",
+      "email": "piusaji9595@gmail.com",
+      "password": "$2b$12$DFsbfKwLvGmXMvLFsV.AI.aB0qLF6IOrEoTiW5af1/QdqN76IrHaG",
+      "firstName": "Pius",
+      "lastName": "Aji",
+      "role": "CUSTOMER",
+      "status": "ACTIVE",
+      "addresses": [
+        {
+          "street": "123 Main Street",
+          "city": "New York",
+          "state": "NY",
+          "zipCode": "10001",
+          "phone": "0895380116393",
+          "country": "United States",
+          "firstName": "Pius",
+          "lastName": "Aji",
+          "email": "piusaji9595@gmail.com"
+        }
+      ],
+      "createdAt": "2025-08-21T13:52:17.143Z",
+      "updatedAt": "2025-08-22T10:28:12.347Z"
+    },
+    {
+      "id": "admin",
+      "email": "admin@vyse.com",
+      "password": "$2b$10$oJoELP94rcBgNKtZVyAKOen5SBnazIhhLydzWD1ghawF.DzXVKDGe",
+      "firstName": "Pius",
+      "lastName": "Aji",
+      "role": "ADMIN",
+      "status": "ACTIVE",
+      "addresses": null,
+      "createdAt": "2025-08-26T21:37:29.652Z",
+      "updatedAt": "2025-08-26T22:13:46.129Z"
+    },
+    {
+      "id": "cmfuu58em0002uq1cw3hz7wpw",
+      "email": "daksawaruzo@gmail.com",
+      "password": "$2b$10$PABAY/Vs/Xq6FKV63CCO4OjhVfkRP3GPaQtitIcLRXbzlw5LZN1rC",
+      "firstName": "Daksaa",
+      "lastName": "Waruzow",
+      "role": "CUSTOMER",
+      "status": "ACTIVE",
+      "addresses": [],
+      "createdAt": "2025-09-22T07:59:23.087Z",
+      "updatedAt": "2025-09-23T07:31:52.923Z"
+    },
+    {
+      "id": "cmfw8n45u0000uq8gfz0lnxxt",
+      "email": "lanayawen@gmail.com",
+      "password": "$2b$10$S6dfNpT1lxtPRykEyGX7B.YiswjGWKpoUe0G6RPT13znLLn7Odd3W",
+      "firstName": "Lanaya",
+      "lastName": "Wen",
+      "role": "CUSTOMER",
+      "status": "INACTIVE",
+      "addresses": [],
+      "createdAt": "2025-09-23T07:32:58.192Z",
+      "updatedAt": "2025-09-24T02:59:45.894Z"
+    }
+  ],
+  "pageSections": [
+    {
+      "id": "cmgrntppu0000uqyo5celwt3o",
+      "page": "home",
+      "section": "hero",
+      "content": {
+        "heading": "Vyse - Footwear",
+        "subheading": "Engineered for the",
+        "image": "https://res.cloudinary.com/dmpjuw9it/image/upload/v1760773000/vyse/pages/kffmoiaesjgmfubidgnz.webp",
+        "ctaText": "Shop Now",
+        "ctaLink": "/products",
+        "flipwordVariants": [
+          "Unstoppable",
+          "Exceptional",
+          "Next Level"
+        ]
+      },
+      "isActive": true,
+      "order": 0,
+      "createdAt": "2025-10-15T07:18:51.760Z",
+      "updatedAt": "2025-11-26T10:12:37.129Z"
+    },
+    {
+      "id": "cmhaisjfk0000uqsck7o7xtk2",
+      "page": "home",
+      "section": "categories",
+      "content": {
+        "categories": [
+          {
+            "id": "category-1761652945819",
+            "name": "Sneakers",
+            "image": "https://res.cloudinary.com/dmpjuw9it/image/upload/v1761653069/vyse/pages/fuzadxokyfi7zvvdmdpb.png",
+            "link": "/sneakers"
+          },
+          {
+            "id": "category-1761652996130",
+            "name": "Men's",
+            "image": "https://res.cloudinary.com/dmpjuw9it/image/upload/v1761653087/vyse/pages/bqvzcbezfzkipxkinw6x.webp",
+            "link": "/men"
+          },
+          {
+            "id": "category-1761653034107",
+            "name": "Women's",
+            "image": "https://res.cloudinary.com/dmpjuw9it/image/upload/v1761653107/vyse/pages/mmd7wmoqtjidigdx9yig.webp",
+            "link": "/women"
+          },
+          {
+            "id": "category-1761653112434",
+            "name": "Boots",
+            "image": "https://res.cloudinary.com/dmpjuw9it/image/upload/v1761653131/vyse/pages/uois0mlsdj8avs6flacy.webp",
+            "link": "/boots"
+          }
+        ],
+        "heading": "SHOP BY",
+        "subheading": "CATEGORY",
+        "description": "Discover our Curated Categories",
+        "flipWords": [
+          "Premium",
+          "Curated",
+          "Stylish"
+        ]
+      },
+      "isActive": true,
+      "order": 0,
+      "createdAt": "2025-10-28T12:05:36.223Z",
+      "updatedAt": "2025-10-29T07:31:26.943Z"
+    },
+    {
+      "id": "cmhf24k1f0000uq141jcisnt0",
+      "page": "home",
+      "section": "currentfocus",
+      "content": {
+        "heading": "CURRENT",
+        "subheading": "Styles we're loving right now",
+        "spotlights": [
+          {
+            "id": "spotlight-1761927218519",
+            "tag": "new-arrival",
+            "title": "Fresh Drops",
+            "description": "Two new color waves just landed",
+            "image": "https://res.cloudinary.com/dmpjuw9it/image/upload/v1762091374/vyse/pages/k074z0rc1va769hznep7.webp",
+            "featured": true,
+            "enabled": true
+          },
+          {
+            "id": "spotlight-1761927371166",
+            "tag": "trending",
+            "title": "Trending",
+            "description": "",
+            "image": "https://res.cloudinary.com/dmpjuw9it/image/upload/v1762091475/vyse/pages/jlp4pqgeglwxlpjq4ggb.webp",
+            "featured": false,
+            "enabled": true
+          },
+          {
+            "id": "spotlight-1761927438302",
+            "tag": "limited-edition",
+            "title": "Limited Edition",
+            "description": "",
+            "image": "https://res.cloudinary.com/dmpjuw9it/image/upload/v1762091490/vyse/pages/qhkil4pnwrrnl3bxlkko.webp",
+            "featured": false,
+            "enabled": true
+          },
+          {
+            "id": "spotlight-1762091493081",
+            "tag": "sale",
+            "title": "On Sale",
+            "description": "",
+            "image": "https://res.cloudinary.com/dmpjuw9it/image/upload/v1762091535/vyse/pages/tlpx11pakqpp3k9q3u2c.webp",
+            "featured": false,
+            "enabled": true
+          }
+        ]
+      },
+      "isActive": true,
+      "order": 0,
+      "createdAt": "2025-10-31T16:17:54.292Z",
+      "updatedAt": "2025-11-24T07:26:13.666Z"
+    },
+    {
+      "id": "cmhj3jeic0000uqec90bwqpw9",
+      "page": "home",
+      "section": "brandstory",
+      "content": {
+        "eyebrow": "Our Story",
+        "heading": "BUILD FOR THE",
+        "description": "Every step tells a story. We design footwear that moves with purpose, blending timeless craftsmanship with modern innovation",
+        "image": "https://res.cloudinary.com/dmpjuw9it/image/upload/v1762171652/vyse/pages/qalli8e9qf0wyzvvim87.webp",
+        "secondImage": "https://res.cloudinary.com/dmpjuw9it/image/upload/v1762171656/vyse/pages/ayb9fgp3i5kgrssaqzfi.webp",
+        "ctaLink": "/about",
+        "ctaText": "Discover Our Journey",
+        "subheading": "BOLD"
+      },
+      "isActive": true,
+      "order": 0,
+      "createdAt": "2025-11-03T12:08:31.281Z",
+      "updatedAt": "2025-11-25T03:01:52.602Z"
+    },
+    {
+      "id": "cmhlq2i0b0000uqgwx1gqwgoi",
+      "page": "home",
+      "section": "newsletter",
+      "content": {
+        "benefits": [
+          "Early Acess to the New Release",
+          "First look at limited edition drops",
+          "Exclusive member-only sales",
+          "Style tips and trend updates"
+        ],
+        "eyebrow": "Stay Connected",
+        "heading": "DON'T MISS",
+        "subheading": "A STEP",
+        "description": "Join our community for exclusive access to new releases, behind-the-scenes content, and member-only perks",
+        "placeholder": "Enter Your Email",
+        "buttonText": "Join the Movement",
+        "successMessage": "Welcome to the Crew!"
+      },
+      "isActive": true,
+      "order": 0,
+      "createdAt": "2025-11-05T08:14:46.184Z",
+      "updatedAt": "2025-11-25T03:02:09.169Z"
+    },
+    {
+      "id": "cmhnif8zx0000uq108dlbmqxt",
+      "page": "all-shoes",
+      "section": "allshoes",
+      "content": {
+        "heading": "ALL SHOES",
+        "subheading": "FIND YOUR FIT"
+      },
+      "isActive": true,
+      "order": 0,
+      "createdAt": "2025-11-06T14:16:16.458Z",
+      "updatedAt": "2025-11-06T14:16:16.458Z"
+    },
+    {
+      "id": "cmhrisqit0000uqug93xu11fe",
+      "page": "women",
+      "section": "hero",
+      "content": {
+        "heading": "Made for ",
+        "subheading": "Movement",
+        "image": "https://res.cloudinary.com/dmpjuw9it/image/upload/v1762681065/vyse/pages/u0sxf4beuxd9bzhywjae.webp",
+        "description": "Engineered for the modern woman who moves with purpose. From studio to street, every step counts"
+      },
+      "isActive": true,
+      "order": 0,
+      "createdAt": "2025-11-09T09:37:50.404Z",
+      "updatedAt": "2025-11-09T09:48:52.907Z"
+    },
+    {
+      "id": "cmht3b9e70000uqvc6tvrziwu",
+      "page": "men",
+      "section": "hero",
+      "content": {
+        "heading": "Style in",
+        "subheading": "Motion",
+        "description": "Precision-crafted essentials that command attention. Our men's collection fuses uncompromising quality with modern edge, designed for those who lead with confidence and style without saying a word",
+        "image": "https://res.cloudinary.com/dmpjuw9it/image/upload/v1762775986/vyse/pages/lar2l8xr8sp3lq06mbxt.webp"
+      },
+      "isActive": true,
+      "order": 0,
+      "createdAt": "2025-11-10T11:59:53.166Z",
+      "updatedAt": "2025-11-16T10:09:11.316Z"
+    },
+    {
+      "id": "cmhu8gon50000uqpsq2xj9gz6",
+      "page": "sneakers",
+      "section": "hero",
+      "content": {
+        "heading": "Kicks that",
+        "subheading": "Speaks Volume",
+        "description": "Every step tells a story. Our sneaker collection blends timeless craftsmanship with bold, contemporary design. Make your statement without saying a word",
+        "image": "https://res.cloudinary.com/dmpjuw9it/image/upload/v1762845104/vyse/pages/qnn1cwrzrv4lit4fmf5i.png"
+      },
+      "isActive": true,
+      "order": 0,
+      "createdAt": "2025-11-11T07:11:50.461Z",
+      "updatedAt": "2025-11-11T07:11:50.461Z"
+    },
+    {
+      "id": "cmhvwuflv0000uq7g8nqoquvn",
+      "page": "sale",
+      "section": "hero",
+      "content": {
+        "heading": "Step Into",
+        "subheading": "The Bold",
+        "description": "Premium VYSE sneakers, now 15% off. Elevate your every step with unstoppable style",
+        "image": "https://res.cloudinary.com/dmpjuw9it/image/upload/v1762946524/vyse/pages/z4hymypskvleymw7b1en.webp"
+      },
+      "isActive": true,
+      "order": 0,
+      "createdAt": "2025-11-12T11:22:08.898Z",
+      "updatedAt": "2025-11-12T11:22:08.898Z"
+    },
+    {
+      "id": "cmhw9fbg60001uq7gf6d6nvor",
+      "page": "sale",
+      "section": "countdown-banner",
+      "content": {
+        "isActive": true,
+        "bannerText": "FLASH SALE ENDS IN",
+        "discountText": "UP TO 15% OFF",
+        "ctaText": "",
+        "saleEndDate": "2025-12-31T23:59"
+      },
+      "isActive": true,
+      "order": 0,
+      "createdAt": "2025-11-12T17:14:18.677Z",
+      "updatedAt": "2025-11-12T17:14:18.677Z"
+    },
+    {
+      "id": "cmhyrqi6a0000uqpg9l4liguz",
+      "page": "boots",
+      "section": "hero",
+      "content": {
+        "heading": "Stand Tall",
+        "subheading": "Stand Fearless",
+        "description": "Timeless construction. Modern edge. Step into boots that honor tradition while conquering tomorrow's adventures",
+        "image": "https://res.cloudinary.com/dmpjuw9it/image/upload/v1763119340/vyse/pages/kdfhjohhxzrp2cekr0xf.webp"
+      },
+      "isActive": true,
+      "order": 0,
+      "createdAt": "2025-11-14T11:22:26.047Z",
+      "updatedAt": "2025-11-14T11:22:26.047Z"
+    },
+    {
+      "id": "cmi02e9vr0000uqpoow7jyi1d",
+      "page": "about",
+      "section": "ourstory",
+      "content": {
+        "timeline": [
+          {
+            "year": "2021",
+            "description": "Vyse was conceived by identifying a gap for high-end, durable footwear blending boot tradition and sneaker tech. Initial research focused entirely on sourcing premium, ethical materials and finalizing the signature collection design blueprints",
+            "image": "https://res.cloudinary.com/dmpjuw9it/image/upload/v1763197577/vyse/pages/aq7racmptgulojsvgfn9.webp"
+          },
+          {
+            "year": "2022",
+            "description": "The year focused on rigorous prototyping to perfect product durability and fit across all models. The team successfully secured seed funding, validating the brand's quality-focused, high-margin business model",
+            "image": "https://res.cloudinary.com/dmpjuw9it/image/upload/v1763197607/vyse/pages/danxb1xohzsqu8mjrutd.webp"
+          },
+          {
+            "year": "2023",
+            "description": "Vyse established contracts with a specialized boutique factory to begin high-quality manufacturing. Pre-launch efforts built an exclusive brand buzz through private social media and mailing lists targeting industry insiders",
+            "image": "https://res.cloudinary.com/dmpjuw9it/image/upload/v1763197644/vyse/pages/njcfvysbeictcgczbp47.webp"
+          },
+          {
+            "year": "2024",
+            "description": "A closed beta test with early adopters ensured final product perfection and operational readiness. The launch of a high-quality, non-transactional microsite generated a substantial customer waitlist for the following year",
+            "image": "https://res.cloudinary.com/dmpjuw9it/image/upload/v1763197681/vyse/pages/k3iwp8mwhact92mtm8jb.webp"
+          },
+          {
+            "year": "2025",
+            "description": "Vyse achieved its goal with the successful global launch of its full e-commerce website. The platform debuted the highly anticipated collections, officially establishing Vyse as a premium direct-to-consumer footwear brand",
+            "image": "https://res.cloudinary.com/dmpjuw9it/image/upload/v1763197710/vyse/pages/uom6ypxequfv7bp3nbvr.webp"
+          }
+        ],
+        "heading": "Journey to",
+        "subheading": "Greatness"
+      },
+      "isActive": true,
+      "order": 0,
+      "createdAt": "2025-11-15T09:08:37.381Z",
+      "updatedAt": "2025-11-15T09:22:19.740Z"
+    },
+    {
+      "id": "cmi02hh3c0001uqpoilipccir",
+      "page": "about",
+      "section": "hero",
+      "content": {
+        "heading": "Our",
+        "subheading": "Story",
+        "description": "Four Years. One Vision. Vyse was meticulously crafted between 2021 and 2024 to redefine premium footwear. Our story is simple: absolute focus on enduring quality, innovative design, and a promise of lasting style, officially launched in 2025",
+        "image": "https://res.cloudinary.com/dmpjuw9it/image/upload/v1763197866/vyse/pages/nowy4bro3wioaj1lpdax.webp"
+      },
+      "isActive": true,
+      "order": 0,
+      "createdAt": "2025-11-15T09:11:06.697Z",
+      "updatedAt": "2025-11-15T09:11:06.697Z"
+    }
+  ]
+}
