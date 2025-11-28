@@ -7,7 +7,17 @@ export function cn(...inputs: ClassValue[]) {
 
 export function absoluteUrl(path: string) {
   if (typeof window !== "undefined") return path;
-  if (process.env.NEXT_PUBLIC_VERCEL_URL)
+
+  // For Netlify
+  if (process.env.NEXT_PUBLIC_SITE_URL) {
+    return `${process.env.NEXT_PUBLIC_SITE_URL}${path}`;
+  }
+
+  // For Vercel (fallback)
+  if (process.env.NEXT_PUBLIC_VERCEL_URL) {
     return `https://${process.env.NEXT_PUBLIC_VERCEL_URL}${path}`;
+  }
+
+  // Local development
   return `http://localhost:${process.env.PORT ?? 3000}${path}`;
 }
