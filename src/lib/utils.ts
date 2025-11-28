@@ -8,14 +8,14 @@ export function cn(...inputs: ClassValue[]) {
 export function absoluteUrl(path: string) {
   if (typeof window !== "undefined") return path;
 
-  // For Netlify
-  if (process.env.NEXT_PUBLIC_SITE_URL) {
-    return `${process.env.NEXT_PUBLIC_SITE_URL}${path}`;
+  // Netlify automatically provides this
+  if (process.env.URL) {
+    return `${process.env.URL}${path}`;
   }
 
-  // For Vercel (fallback)
-  if (process.env.NEXT_PUBLIC_VERCEL_URL) {
-    return `https://${process.env.NEXT_PUBLIC_VERCEL_URL}${path}`;
+  // Manual override
+  if (process.env.NEXT_PUBLIC_SITE_URL) {
+    return `${process.env.NEXT_PUBLIC_SITE_URL}${path}`;
   }
 
   // Local development
